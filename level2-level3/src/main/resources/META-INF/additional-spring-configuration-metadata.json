@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "communication.context.path",
+    "type": "java.lang.String",
+    "description": "A description for 'communication.context.path'"
+  },
+  {
+    "name": "service.level.two",
+    "type": "java.lang.String",
+    "description": "A description for 'service.level.two'"
+  },
+  {
+    "name": "service.level.three",
+    "type": "java.lang.String",
+    "description": "A description for 'service.level.three'"
+  },
+  {
+    "name": "number.of.satellites",
+    "type": "java.lang.String",
+    "description": "A description for 'number.of.satellites'"
+  }
+]}

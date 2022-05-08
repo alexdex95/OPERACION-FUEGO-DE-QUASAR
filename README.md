@@ -30,7 +30,7 @@ https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret_split/skywalker
 https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret_split/sato
 
 ### JSON DE ENTRADA
-##### Servicio topsecret metodo GET 
+##### Servicio topsecret metodo POST 
 
 ```json
     {

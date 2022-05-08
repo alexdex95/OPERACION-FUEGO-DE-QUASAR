@@ -1,4 +1,5 @@
-# OPERACION-FUEGO-DE-QUASAR-JEFFERSON ALEXANDER MORENO BARRERA
+# OPERACION-FUEGO-DE-QUASAR
+JEFFERSON ALEXANDER MORENO BARRERA
 *****************************************************************************************************************************************************************
 ###  Tecnologias
 1. Maven
@@ -11,16 +12,18 @@
 3. commons-lang3
 
 ### Entregables.
-Repositorio privado Github: https://github.com/alexdex95/OPERACION-FUEGO-DE-QUASAR
-Host: Google Cloud
-Documentacion:
+1.  Repositorio privado Github: https://github.com/alexdex95/OPERACION-FUEGO-DE-QUASAR
+2.  Host: Google Cloud
+3.  Documentacion:
 
 ### URL API REST
 
 Metodos GET
+
 https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret_split
 
 Metodo Post
+
 https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret
 https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret_split/kenobi
 https://melioq.uc.r.appspot.com/OperationQuasarFire/topsecret_split/skywalker
